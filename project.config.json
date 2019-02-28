@@ -1,0 +1,15 @@
+{
+	"description": "just bomb",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx9b02d5466a44aa71",
+	"projectname": "fission_bomb",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
